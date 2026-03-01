@@ -1,6 +1,6 @@
 # 🧠 Graph4ASD Challenge 
 
-**[Live Leaderboard](https://rosepy.github.io/Graph4ASD-Challenge)**
+**[Live Leaderboard](https://rosepy.github.io/Graph4ASD-Challenge/docs/leaderboard.html)**
 
 ## 📌 Overview
 
